@@ -21,7 +21,7 @@ This project demonstrates state management in React and allows users to add, del
 ---
 
 ## 📸 Screenshots
-![alt text](image.png)
+![Screenshot of workable project](image.png)
 
 ---
 
